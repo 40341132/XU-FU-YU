@@ -8,6 +8,9 @@
     <orderEntry type="module" module-name="data-science-from-scratch" />
     <orderEntry type="module" module-name="data-science-from-scratch" />
     <orderEntry type="module" module-name="GuanTing" />
+    <orderEntry type="module" module-name="data-science-from-scratch" />
+    <orderEntry type="module" module-name="data-science-from-scratch" />
+    <orderEntry type="module" module-name="tutorials" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />
